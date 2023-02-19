@@ -1,0 +1,12 @@
+db:
+  host: yamalmam.ru
+  name: a0737794_yamalmam
+  user: a0737794_yamalmam
+  pass: 1597532486
+server:
+  addr: localhost:8000
+  migrationMode: false
+wp:
+  url: "http://localhost/wp-json/"
+frontend:
+  path: "D:\\Users\\User3\\Documents\\Projects\\mail\\frontend\\dist"

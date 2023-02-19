@@ -1,0 +1,12 @@
+db:
+  host: yamalmam.ru
+  name: a0737794_yamalmam
+  user: a0737794_yamalmam
+  pass: 1597532486
+server:
+  addr: 141.8.192.93:8000
+  migrationMode: false
+wp:
+  url: "http://yamalmam.ru/wp-json/"
+frontend:
+  path: "./dist"
