@@ -1,0 +1,12 @@
+db:
+  host: 
+  name: 
+  user: 
+  pass: 
+server:
+  addr: localhost:8000
+  migrationMode: false
+wp:
+  url: 
+frontend:
+  path: 
